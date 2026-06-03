@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 300 300">
-  <rect width="300" height="300" fill="#ffffff"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#ffffff"/>
+  
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="80">
-    <tspan fill="#c9a24a">nu</tspan><tspan fill="#2d4166">ARGO</tspan>
+        font-size="90">
+    <tspan fill="#c9a24a">nu</tspan>
+    <tspan fill="#2d4166" font-style="italic">ARGO</tspan>
   </text>
 </svg>
+``
