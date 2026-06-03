@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
 
-  <!-- Background -->
+  <!-- White background -->
   <rect width="500" height="500" fill="#ffffff"/>
 
-  <!-- Logo image centered properly -->
+  <!-- Embedded image (no external loading problems) -->
   <image 
-    href="https://i.postimg.cc/tTkHHj0b/nu-ARGO-ig-1080px.png"
     x="50"
     y="150"
     width="400"
     height="200"
-    preserveAspectRatio="xMidYMid meet"/>
+    preserveAspectRatio="xMidYMid meet"
+    href="data:image/png;base64,"
+  />
 
 </svg>
