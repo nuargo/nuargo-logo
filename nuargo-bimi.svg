@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" viewBox="0 0 500 500">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 500 500">
 <title>nuARGO</title>
 <rect width="500" height="500" fill="#ffffff"/>
 <path fill="#c9a84c" d="M104.26 243.05V275.68H95.38V243.34Q95.38 235.66 92.38 231.85Q89.39 228.04 83.41 228.04Q76.21 228.04 72.06 232.62Q67.91 237.21 67.91 245.12V275.68H58.98V221.61H67.91V230.01Q71.1 225.14 75.42 222.73Q79.74 220.31 85.38 220.31Q94.7 220.31 99.48 226.08Q104.26 231.85 104.26 243.05Z"/>
